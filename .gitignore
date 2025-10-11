@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+standardized_sales.csv*
+
+__pycache__/
