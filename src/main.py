@@ -5,7 +5,7 @@ Author: Yendri Hernández
 Year: 2025
 """
 
-from src import etl, load_to_db
+import etl, load_to_db
 
 def main():
     try:
